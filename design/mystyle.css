@@ -1,0 +1,127 @@
+body {
+    background-color: #cae8f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.margin-top1 {
+    margin-top: 100px;
+}
+
+.margin-top2 {
+    margin-top: 60px
+}
+
+.margin-top3 {
+    margin-top: 30px;
+}
+
+.margin-right1 {
+    margin-right: 300px;
+}
+
+.margin-right2 {
+    margin-right: 380px;
+}
+
+.margin-right3 {
+    margin-right: 20px
+}
+
+.margin-left {
+    margin-left: 80px;
+}
+
+.margin-left1 {
+    margin-left: 700px
+}
+
+.margin-left2 {
+    margin-left: 200px;
+}
+
+.margin-left3 {
+    margin-left: 30px;
+}
+
+.padding {
+    padding: 10px 15px;
+}
+
+.font-weight-bolder {
+    font-weight: bolder;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.color {
+    color: rgb(23, 160, 23);
+}
+
+.text-white {
+    color: white;
+}
+
+.background-color {
+    background-color: black;
+}
+
+.float-right {
+    float: right;
+}
+
+.font-size1 {
+    font-size: 35px
+}
+
+.font-size2 {
+    font-size: 25px
+}
+
+.font-size3 {
+    font-size: 20px
+}
+
+.font-size4 {
+    font-size: 16px
+}
+
+.border-radius {
+    border-radius: 5px
+}
+
+
+/*  */
+
+.sign-up {
+    margin-left: 20px;
+}
+
+.mydiv {
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    background-size: 470px;
+    width: 600px;
+    height: 400px;
+}
+
+input {
+    border: none;
+    padding: 18px 20px;
+    width: 250px;
+}
+
+a {
+    color: black;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+hr {
+    width: 80px;
+}
+
+.product {
+    margin-top: -20px;
+}
